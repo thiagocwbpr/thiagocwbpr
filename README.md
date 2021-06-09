@@ -51,7 +51,7 @@ Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me cont
 - 🇦🇷 Espanhol - Nível Avançado;
 ##
 
-### 🛫🌎 Países no qual já viajei
+### 🛫🌎 Países que já viajei
 
 -  Brasil
 -  México;
