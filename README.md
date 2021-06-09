@@ -7,7 +7,7 @@ Atualmente busco migrar da área de infraestrutura de TI para uma vaga na área 
 
 Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me contatar. 😊
 ##
-### Conhecimentos
+### 📘 Conhecimentos
 
 -  HTML básico
 -  CSS básico
@@ -15,7 +15,7 @@ Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me cont
 -  C# básico
 -  Python básico
 ##
-### Estudos em andamento
+### 📚 Estudos em andamento
 
 -  C
 -  C #
@@ -23,35 +23,35 @@ Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me cont
 -  HTML e CSS
 ##
 
-### Formação Acadêmica
+### 🥇 Formação Acadêmica
 
 - 2012 - Me graduei em Gestão de Negócios
 - 2014 - Concluí Pós-Graduação MBA em Gestão de Projetos
 - 2018 - Concluí Pós-Graduação MBA em Gestão de Empresas de Radiodifusão
 - 2021 – Cursando – Bacharel em Engenharia de Software
 ##
-### Certificações Internacionais
+### 📜 Certificações Internacionais
 
 - ITIL 3 - Foundations
 - ITIL – Operational Support and Analysis - OSA
 - ITMP – IT Management Principles
 ##
 
-### Conhecimentos Gerenciais
+### 📊 Conhecimentos Gerenciais
 
 - COBIT
 - VAL IT
 - ISO / IEC 2000 e ISO / IEC 27001
 - PMBOK – PMP
 ##
-### Idiomas
+### 🌎 Idiomas
 
 - 🇧🇷 Português Brasileiro - Nativo;
 - 🇺🇸 Inglês - Nível Avançado;
 - 🇦🇷 Espanhol - Nível Avançado;
 ##
 
-### Países no qual já viajei
+### 🛫🌎 Países no qual já viajei
 
 -  Brasil
 -  México;
@@ -64,11 +64,11 @@ Deixo ao fim desta seção meu e-mail e número de WhatsApp, caso deseje me cont
 -  Paraguai;
 ##
 
-### E-mail
+### 📧 E-mail
 
 -  thiagocwbpr@gmail.com
 
-### Whatsapp
+### 📱 Whatsapp
 
 -  +55 41 99783-9362
 
