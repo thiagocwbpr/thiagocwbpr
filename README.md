@@ -20,22 +20,14 @@ Currently Studying:
 - 🚩 - Java
 - 🚩 - SQL
 ##
+**reach me out** 👇🏻
 
-### 🥇 Academic Formation
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-menezes/)](https://www.linkedin.com/in/thiago-menezes/)
 
-- 2012 - Concluded the graduation - Business management
-- 2014 - Concluded postgraduate - MBA Project management
-- 2018 - Concluded postgraduate - MBA Concluí Pós-Graduação MBA Broadcasting Companies Management
-- 2021 – studying Software Engineering.
-##
-### 📜 International Certifications
-
-- ITIL 3 - Foundations
-- ITIL – Operational Support and Analysis - OSA
-- ITMP – IT Management Principles
+🌎 Curitiba - PR
 ##
 
-### 🛫🌎 trips that I did
+### ✈🌎 Trips that I did
 
 -  Brazil
 -  México;
