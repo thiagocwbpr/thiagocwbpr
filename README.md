@@ -12,13 +12,14 @@
 ##
 
 Done:
-✅ HTML , ✅ CSS
+✅ HTML 5 , ✅ CSS 3
 
 Currently Studying:
 - 🚩 - C
 - 🚩 - C#
 - 🚩 - Java
-- 🚩 - SQL
+- 🚩 - Linux
+- 🚩 - MySQL
 ##
 **reach me out** 👇🏻
 
