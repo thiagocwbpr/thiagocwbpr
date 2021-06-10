@@ -21,7 +21,7 @@ Currently Studying:
 - 🚩 - Linux
 - 🚩 - MySQL
 ##
-**reach me out** 👇🏻
+👇🏻 **reach me out** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-menezes/)](https://www.linkedin.com/in/thiago-menezes/)
 
