@@ -12,14 +12,19 @@
 ##
 
 Done:
-✅ HTML 5 , ✅ CSS 3
+✅ HTML 5 ;
+✅ CSS 3 ; 
+✅ SQL ; 
+✅ SQL Server ;
+✅ C - Book Luís Damas - Linguage C - 415p.
+✅ Linux
+
+
 
 Currently Studying:
-- 🚩 - C
 - 🚩 - C#
-- 🚩 - Java
-- 🚩 - Linux
-- 🚩 - MySQL
+- 🚩 - .Net
+- 🚩 -  Java
 ##
 👇🏻 **reach me out** 
 
