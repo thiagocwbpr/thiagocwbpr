@@ -12,10 +12,10 @@
 ##
 
 Done:
-✅ HTML 5 ;
-✅ CSS 3 ; 
-✅ SQL ; 
-✅ SQL Server ;
+✅ HTML 5 
+✅ CSS 3
+✅ SQL
+✅ SQL Server
 ✅ C - Book Luís Damas - Linguage C - 415p.
 ✅ Linux
 
