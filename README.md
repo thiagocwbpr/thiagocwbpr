@@ -4,7 +4,7 @@
 ### My name is Thiago Menezes and I'm from Brazil!
 ##
 
-👩‍💻 - Currently studying Software Engineering.
+👩‍💻 - I am Software Engineering.
 
 👩‍💻 - I'm studying English , Spanish and programming courses by myself!
 
