@@ -4,27 +4,10 @@
 ### My name is Thiago Menezes and I'm from Brazil!
 ##
 
-👩‍💻 - I am Software Engineering.
-
-👩‍💻 - I'm studying English , Spanish and programming courses by myself!
+👩‍💻 - I am Software Engineer.
 
 💻 - **Always searching new knowledge**
 ##
-
-Done:
-✅ HTML 5 
-✅ CSS 3
-✅ SQL
-✅ SQL Server
-✅ C - Book Luís Damas - Linguage C - 415p.
-✅ Linux
-
-
-
-Currently Studying:
-- 🚩 - C#
-- 🚩 - .Net
-- 🚩 -  Java
 ##
 👇🏻 **reach me out** 
 
